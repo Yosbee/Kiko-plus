@@ -3,10 +3,10 @@
 # # # # # # # # # # # # #
 
 # Basic
-name:               "Kiko Plus"
+name:               "Yosbee's BLOG"
 
 author:
-  facebook:         your-id
+  facebook:         nina9424@naver.com
   youtubeUser:      your-id
   youtubeChannel:   your-id
   twitter:          your-id
@@ -20,11 +20,11 @@ author:
   reddit:           your-id
   medium:           your-id
   tumblr:           your-id
-  email:            your-id@your-email.com
+  email:            nina9424@gmail.com
 
 copyright:
   year:             2017
-  name:             Kiko
+  name:             Yosbee
 
 # Google-analytics
 google-analytics:
@@ -35,9 +35,9 @@ disqus:
   id:               "kiko-plus"
 
 # URL
-url:                "https://AWEEKJ.github.io" # the base hostname & protocol for your site
+url:                "https://yosbee.github.io" # the base hostname & protocol for your site
 # url:                "http://localhost:4000" # use this url when you develop
-baseurl:            "/Kiko-plus" # the subpath of your site, e.g. /blog
+baseurl:            "" # the subpath of your site, e.g. /blog
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
